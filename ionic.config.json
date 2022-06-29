@@ -1,0 +1,7 @@
+{
+  "name": "test-hms",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
